@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Library](https://github.com/mmkamron/library)
 
-- 🌱 I’m currently learning **Golang, Backend**
+- 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [https://mmkamron.me/posts/](https://mmkamron.me/posts/)
+- 📝 I write articles on [https://mmkamron.me/posts/](https://mmkamron.me/posts/)
 
-- 📫 How to reach me **kamronmirsamatov@gmail.com**
+- 📫 Reach me at **kamronmirsamatov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
