@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamron</h1>
 <h3 align="center">Golang Developer</h3>
 
-- 🔭 I’m currently working on [Library](https://github.com/mmkamron/library)
+- 🔭 I’m working on [Library](https://github.com/mmkamron/library)
 
-- 🌱 I’m currently learning **Golang** and **Backend Development**
+- 🌱 I’m practicing **Golang** and learning foundations of **Computer Science**
 
-- 📝 Check out my blog on my website [https://mmkamron.me](https://mmkamron.me)
+- 📝 Check out my blog on my website [https://mmkamron.github.io](https://mmkamron.github.io)
 
 - 📫 Contact me: **kamronmirsamatov@gmail.com**
 
