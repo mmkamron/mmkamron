@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamron</h1>
-<h3 align="center">Golang Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m looking for a new project
 
