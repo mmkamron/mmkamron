@@ -5,7 +5,7 @@
 
 - 🌱 I’m practicing **Golang** and learning foundations of **Computer Science**
 
-- 📝 Check out my blog on my website [https://mmkamron.github.io](https://mmkamron.github.io)
+- 📝 Check out my blog on my website [https://kamron.dev](https://kamron.dev)
 
 - 📫 Contact me: **kamronmirsamatov@gmail.com**
 
