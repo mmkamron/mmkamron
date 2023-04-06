@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamron</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m looking for a new project
+- 🔭 I’m working on [BaseFit](https://github.com/mmkamron/basefit)
 
 - 🌱 I’m practicing **Golang** and learning foundations of **Computer Science**
 
