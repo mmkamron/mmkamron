@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kamron</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">CS student</h3>
 
-- 🔭 I’m working on [BaseFit](https://github.com/mmkamron/basefit)
+- 🔭 I’m working on [GoChat](https://github.com/mmkamron/gochat)
 
-- 🌱 I’m practicing **Golang** and learning foundations of **Computer Science**
+- 🌱 I’m learning **Golang** and **Computer Science**
 
 - 📝 Check out my blog on my website [https://kamron.dev](https://kamron.dev)
 
