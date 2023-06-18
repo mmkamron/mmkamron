@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamron</h1>
-<h3 align="center">CS student</h3>
+<h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m learning **Backend Development** and **Computer Science**
 
